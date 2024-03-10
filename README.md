@@ -2,13 +2,12 @@
 
 
 ## Acerca de mi 
-Soy un estudiante de 16 años apasionado por el mundo de la tecnologia y la programacion, que busca dejar un aporte significativo en la comunidad y poder aprender y ayudar a otros
+Soy un estudiante de 16 años apasionado por el mundo de la tecnologia y la programacion, que busca dejar un aporte significativo en la comunidad, poder aprender y ayudar a otros
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dlzbytehub/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmailColor=white)]()
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]()
-
 
 ## 💻 Tech Stack:
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
